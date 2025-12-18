@@ -12,6 +12,7 @@
         "meta",
         "path",
         "path_provider",
+        "riverpod",
         "sqflite",
         "uuid"
       ],
@@ -78,6 +79,16 @@
         "sqflite_common",
         "sqflite_darwin",
         "sqflite_platform_interface"
+      ]
+    },
+    {
+      "name": "riverpod",
+      "version": "2.6.1",
+      "dependencies": [
+        "collection",
+        "meta",
+        "stack_trace",
+        "state_notifier"
       ]
     },
     {
@@ -281,16 +292,6 @@
       "version": "1.0.0",
       "dependencies": [
         "meta"
-      ]
-    },
-    {
-      "name": "riverpod",
-      "version": "2.6.1",
-      "dependencies": [
-        "collection",
-        "meta",
-        "stack_trace",
-        "state_notifier"
       ]
     },
     {

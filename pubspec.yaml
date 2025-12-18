@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_riverpod: ^2.3.6
+  flutter_riverpod: ^2.4.0
+  riverpod: ^2.4.0
   sqflite: ^2.2.8+4
   path_provider: ^2.0.15
   path: ^1.8.3
