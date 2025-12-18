@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+##############################################################################
+# Gradle start up script for UN*X
+##############################################################################
+set -e
+THIS_DIR="$(cd "$(dirname "$0")" && pwd)"
+java -version >/dev/null 2>&1 || {
+  echo "Java not found, please install a JDK and ensure 'java' is on your PATH." >&2
+  exit 1
+}
+exec "${THIS_DIR}/gradlew" "$@"
