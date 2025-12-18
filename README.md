@@ -61,7 +61,7 @@ Ready to get started? Follow these steps:
 1. **Clone the repository :**
 
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/DeadlyISwitch/NoteSphere>
     cd NoteSphere
     ```
 
