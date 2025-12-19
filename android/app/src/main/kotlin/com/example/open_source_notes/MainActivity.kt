@@ -1,5 +1,3 @@
-package com.example.open_source_notes
+// This file was replaced to avoid duplicate MainActivity declarations.
+// The active MainActivity is under com.algo.notesphere package.
 
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity : FlutterActivity()

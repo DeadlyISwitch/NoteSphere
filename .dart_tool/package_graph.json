@@ -1,11 +1,11 @@
 {
   "roots": [
-    "open_source_notes"
+    "notesphere"
   ],
   "packages": [
     {
-      "name": "open_source_notes",
-      "version": "0.1.0",
+      "name": "notesphere",
+      "version": "0.1.1+1",
       "dependencies": [
         "flutter",
         "flutter_riverpod",

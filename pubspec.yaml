@@ -1,6 +1,6 @@
-name: open_source_notes
-description: A simple notes app (Clean Architecture, Riverpod, SQLite)
-version: 0.1.0
+name: notesphere
+description: A place where your notes persevere.
+version: 0.1.1+1
 publish_to: 'none'
 
 environment:

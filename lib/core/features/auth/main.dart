@@ -10,7 +10,7 @@ void main() {
   // ProviderScope es necesario para que Riverpod funcione.
   runApp(
     const ProviderScope(
-      child: NotesApp(),
+      child: NoteSphereApp(),
     ),
   );
 }

@@ -4,5 +4,5 @@ import 'core/features/auth/app/app.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const ProviderScope(child: NotesApp()));
+  runApp(const ProviderScope(child: NoteSphereApp()));
 }
