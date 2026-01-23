@@ -29,6 +29,12 @@
 
 - Quick Action: Add sample notes instantly via the Floating Action Button.
 
+- **⚙️ Autosave**: Your notes are saved automatically as you type, with a 2-second debounce.
+
+- **📁 Local Backups**: Up to 2 automatic backups per note, accessible from the history button in each note.
+
+- **☁️ Google Drive Sync**: Synchronize your notes and backups automatically to Google Drive for cloud backup and cross-device access.
+
 - Modular Design: Clean separation of concerns where each feature is self-contained.
 ##  🛠️ Tech Stack & Dependencies
 

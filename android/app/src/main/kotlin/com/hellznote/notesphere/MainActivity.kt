@@ -1,4 +1,4 @@
-package com.algo.notesphere
+package com.hellznote.notesphere
 
 import io.flutter.embedding.android.FlutterActivity
 
